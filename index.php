@@ -2,7 +2,7 @@
   
   <?php
   print "hi 3rd commit ocp";
-  print `/usr/sbin/ifconfig`
+  print "anuj gupta"
   ?>
   
 </body>
